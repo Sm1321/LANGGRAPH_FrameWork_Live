@@ -2,7 +2,7 @@
 #### LangGraph, built by LangChain, is an open-source framework used to create and manage complex AI agent workflows, particularly those involving multiple interacting agents and stateful computations
 - Langgraph Topics Covered:-
     - Tools :- 
-        - Builtin Tools
+        - Built-in Tools
         - Custom Tools 
     - Graph
     - Node
