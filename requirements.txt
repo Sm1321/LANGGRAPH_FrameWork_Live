@@ -15,3 +15,4 @@ youtube-search-python
 youtube-search
 langchain_groq
 langchain_huggingface
+sentence-transformers
