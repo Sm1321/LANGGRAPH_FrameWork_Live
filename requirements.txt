@@ -14,3 +14,4 @@ langchain-chroma
 youtube-search-python
 youtube-search
 langchain_groq
+langchain_huggingface
