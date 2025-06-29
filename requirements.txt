@@ -16,3 +16,4 @@ youtube-search
 langchain_groq
 langchain_huggingface
 sentence-transformers
+duckduckgo_search
