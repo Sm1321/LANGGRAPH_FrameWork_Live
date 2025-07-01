@@ -15,3 +15,5 @@ langchain_huggingface
 sentence-transformers
 duckduckgo_search
 yfinance
+protobuf==3.20.3
+langchain_openai
