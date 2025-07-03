@@ -19,5 +19,6 @@ sentence-transformers
 duckduckgo_search
 yfinance
 protobuf==3.20.*
+langchain_experimental
 
 
